@@ -1,0 +1,61 @@
+# PLANTA - tablero 600 x 400
+li
+0,500
+@600,0
+@0,400
+@-600,0
+c
+k
+# ALZADO - tablero
+li
+0,400
+@600,0
+@0,20
+@-600,0
+c
+k
+# ALZADO - pata izquierda
+li
+30,0
+@40,0
+@0,400
+@-40,0
+c
+k
+# ALZADO - pata derecha
+li
+530,0
+@40,0
+@0,400
+@-40,0
+c
+k
+# ALZADO - linea de suelo
+li
+-50,0
+650,0
+k
+# PERFIL - tablero
+li
+700,400
+@400,0
+@0,20
+@-400,0
+c
+k
+# PERFIL - pata de adelante
+li
+730,0
+@40,0
+@0,400
+@-40,0
+c
+k
+# PERFIL - pata de atras
+li
+1030,0
+@40,0
+@0,400
+@-40,0
+c
+k
